@@ -1,0 +1,15 @@
+streamlit
+pandas
+requests
+python-dotenv
+pydantic
+langchain
+langchain-openai
+langchain-ollama
+langchain-mcp-adapters
+langgraph
+mcp
+anthropic
+duckduckgo_search
+wikipedia
+googleads
